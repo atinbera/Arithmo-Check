@@ -1,0 +1,4 @@
+https://youtu.be/VqgUkExPvLY?si=VlhHMGkd2yuGsWIc
+python -m streamlit run app.py
+
+LottiFiles: json based Animation file format
